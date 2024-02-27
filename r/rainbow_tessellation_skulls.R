@@ -27,5 +27,5 @@ while(i < 50){
   i = i+1
 }
 
-print('Based on STessellation Skulls, by Al Sweigart al@inventwithpython.com')
+print('Based on Tessellation Skulls, by Al Sweigart al@inventwithpython.com')
 
